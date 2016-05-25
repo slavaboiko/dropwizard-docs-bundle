@@ -1,1 +1,1 @@
-# Configurable Docs Bundle
+# Dropwizard Docs Bundle
